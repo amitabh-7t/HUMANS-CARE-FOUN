@@ -1,3 +1,7 @@
+Basic
+    1.Basics of SMC
+    2.Some concepts of Linear Algebra
+    3.Statisitcs
 
 Easy Projects
     Basic Calculator
@@ -9,7 +13,6 @@ Easy Projects
     Palindrome Checker
     Email Slicer
     Dice Roller
-    Basic Web Scraper
 
 Medium Projects
     Weather App
@@ -21,11 +24,15 @@ Medium Projects
     Quiz App
     Simple E-commerce Site
     URL Shortener
+    QRCODE GENERATOR
     Currency Converter
 
 Hard Projects
-    Machine Learning Model
     Chat Application
-    Advanced Web Scraper
+    Web Scraper
     Portfolio Website
     E-commerce Platform
+
+
+
+
