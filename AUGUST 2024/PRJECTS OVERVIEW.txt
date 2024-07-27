@@ -1,0 +1,31 @@
+
+Easy Projects
+    Basic Calculator
+    Temperature Converter
+    Simple Chatbot
+    Number Guessing Game
+    To-Do List Application
+    Unit Converter
+    Palindrome Checker
+    Email Slicer
+    Dice Roller
+    Basic Web Scraper
+
+Medium Projects
+    Weather App
+    Expense Tracker
+    Simple Blog
+    Library Management System
+    Image Gallery
+    Password Manager
+    Quiz App
+    Simple E-commerce Site
+    URL Shortener
+    Currency Converter
+
+Hard Projects
+    Machine Learning Model
+    Chat Application
+    Advanced Web Scraper
+    Portfolio Website
+    E-commerce Platform
