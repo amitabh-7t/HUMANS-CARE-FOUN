@@ -10,35 +10,35 @@ Basic
     3.Statisitcs -anirudh
 
 Easy Projects(10)
-    Basic Calculator -amitabh   - don -don2
-    Temperature Converter -anirudh -don
-    Number Guessing Game -amitabh -don
+    Temperature Converter -anirudh -green
     leap year -anirudh
-    rock paper scissor - vaishanth
+    Email Slicer -anirudh
+    Basic Calculator -amitabh   
+    Number Guessing Game -amitabh 
     To-Do List Application -amitabh
     Unit Converter -vaishanth
     Palindrome Checker -vaishanth 
+    rock paper scissor - vaishanth
     Prime Number Checker -vaishanth
-    Email Slicer -anirudh
 
 Medium Projects(9)
     file Manager - anirudh
-    Simple E-commerce Site -vaishanth
+    Currency Converter (api) -anirudh 
+    Expense Tracker - anirudh
     URL Shortener -amitabh
     QRCODE GENERATOR -amitabh
-    Currency Converter (api) -anirudh 
-    Password Manager -amitabh
-    Expense Tracker - anirudh
-    caesar cipher (encrypt and decrypt) - vaishanth
     Quiz App - amitabh
+    Password Manager -amitabh
+    Simple E-commerce Site -vaishanth
+    caesar cipher (encrypt and decrypt) - vaishanth
 
 Hard Projects (6)
     Library Management System - amitabh
     Weather App (api) -amitabh
-    advanced chatbot -amitabh
+    chatbot -amitabh
+    Web Scraper -amitabh
     hangman -vaishanth
     data visualization -anirudh
-    Web Scraper -amitabh
 
 
 

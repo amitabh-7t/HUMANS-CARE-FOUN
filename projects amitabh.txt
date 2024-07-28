@@ -1,0 +1,24 @@
+Easy Projects(10)
+
+    Basic Calculator  -done  
+    Number Guessing Game   -done
+    To-Do List Application 
+
+Medium Projects(9)
+
+    URL Shortener 
+    QRCODE GENERATOR 
+    Quiz App 
+    Password Manager 
+
+
+Hard Projects (6)
+    Library Management System 
+    Weather App (api) 
+    chatbot 
+    Web Scraper 
+
+
+
+
+
