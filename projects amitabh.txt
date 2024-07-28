@@ -1,8 +1,9 @@
-Easy Projects(10)
+basics Projects(10)
 
     Basic Calculator  -done  
     Number Guessing Game   -done
-    To-Do List Application 
+    To-Do List Application  -done
+    youtube video downloader 
 
 Medium Projects(9)
 
