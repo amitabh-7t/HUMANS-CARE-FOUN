@@ -1,0 +1,45 @@
+pdfs - Python: basics, syntax, and environment setup 
+
+
+
+
+
+Basic
+    1.Basics of SMC -anirudh
+    2.Some concepts of Linear Algebra -anirudh
+    3.Statisitcs -anirudh
+
+Easy Projects(10)
+    Basic Calculator -amitabh   - don -don2
+    Temperature Converter -anirudh -don
+    Number Guessing Game -amitabh -don
+    leap year -anirudh
+    rock paper scissor - vaishanth
+    To-Do List Application -amitabh
+    Unit Converter -vaishanth
+    Palindrome Checker -vaishanth 
+    Prime Number Checker -vaishanth
+    Email Slicer -anirudh
+
+Medium Projects(9)
+    file Manager - anirudh
+    Simple E-commerce Site -vaishanth
+    URL Shortener -amitabh
+    QRCODE GENERATOR -amitabh
+    Currency Converter (api) -anirudh 
+    Password Manager -amitabh
+    Expense Tracker - anirudh
+    caesar cipher (encrypt and decrypt) - vaishanth
+    Quiz App - amitabh
+
+Hard Projects (6)
+    Library Management System - amitabh
+    Weather App (api) -amitabh
+    advanced chatbot -amitabh
+    hangman -vaishanth
+    data visualization -anirudh
+    Web Scraper -amitabh
+
+
+
+
