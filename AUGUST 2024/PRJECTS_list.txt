@@ -1,11 +1,5 @@
-pdfs - Python: basics, syntax, and environment setup 
-
-
-
-
-
 Basic
-    1.Basics of SMC -anirudh
+    1.Basics of SMC -anirudh 
     2.Some concepts of Linear Algebra -anirudh
     3.Statisitcs -anirudh
 
@@ -42,4 +36,31 @@ Hard Projects (6)
 
 
 
-
+team :- 
+    leap year - 01/08/2024
+    Basic Calculator -01/08/2024
+    Quiz App - 02/08/2024
+    Number Guessing Game  - 02/08/2024
+    QRCODE GENERATOR - 03/08/2024
+    Weather App (api) - 03/08/2024
+    Currency Converter (api) - 04/08/2024 
+    rock paper scissor - 04/08/2024 
+    file Manager - 05/08/2024 
+    Expense Tracker - 05/08/2024 
+    chatbot - 06/08/2024
+    Library Management System - 06/08/2024
+    caesar cipher (encrypt and decrypt) - 07/08/2024
+    data visualization - 08/08/2024
+    
+individual :- 
+    Temperature Converter - 01/08/2024
+    Email Slicer - 02/08/2024
+    To-Do List Application - 03/08/2024
+    Unit Converter - 04/08/2024
+    Palindrome Checker - 05/08/2024 
+    Password Manager - 06/08/2024
+    Prime Number Checker - 07/08/2024
+    URL Shortener 05/08/2024 
+    Simple E-commerce Site 03/08/2024
+    Web Scraper 06/08/2024
+    hangman 04/08/2024
